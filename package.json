@@ -24,6 +24,13 @@
   "files": [
     "dist"
   ],
+  "keywords": [
+    "dice",
+    "react",
+    "javascript",
+    "roll",
+    "cute"
+  ],
   "scripts": {
     "start": "run-s build:esm watch",
     "build": "run-p build:esm build:cjs",
